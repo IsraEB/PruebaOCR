@@ -1,0 +1,12 @@
+pip install numpy==1.16.4
+pip install opencv-python
+pip install scipy==1.1.0
+pip install tensorflow==1.5.0
+pip install keras==2.2.0
+pip install pandas
+pip install pillow
+pip install scikit-learn
+pip install pytesseract
+pip install matplotlib
+pip install ipykernel
+pip install h5py=2.10.0
